@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cetrasoft/iwebmobile/svn/!svn/ver/63/trunk/Frameworks/AppKit/Resources/CPAlert
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cetrasoft/iwebmobile/svn/!svn/ver/63/trunk/Frameworks/AppKit/Resources/CPAlert/LICENSE
+END
+dialog-information.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/cetrasoft/iwebmobile/svn/!svn/ver/63/trunk/Frameworks/AppKit/Resources/CPAlert/dialog-information.png
+END
+dialog-warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cetrasoft/iwebmobile/svn/!svn/ver/63/trunk/Frameworks/AppKit/Resources/CPAlert/dialog-warning.png
+END
+dialog-error.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/cetrasoft/iwebmobile/svn/!svn/ver/63/trunk/Frameworks/AppKit/Resources/CPAlert/dialog-error.png
+END
