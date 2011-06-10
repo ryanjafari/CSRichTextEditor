@@ -1,0 +1,6 @@
+CSRichTextEditor
+================
+
+This project was an experimental project during the time I was working with Cappuccino. Since I've received many inquiries about it of late (and some watchers that I wasn't expecting), I wanted to dispel any expectations that the code contained herein is production-ready code. Before you download, you should know that this won't work in Safari, as it is heavily reliant on the following: [RichText Editing in Mozilla](https://developer.mozilla.org/en/rich-text_editing_in_mozilla "RichText Editing in Mozilla"). Therefore, it does not work in WebKit. If you wish to adapt this to work with other browsers, it should be fairly easy to do so for Internet Explorer since the above is based off of Microsoft's rich-text editor implementation. For WebKit, you can check this out: [WebKit RTE](http://www.webkit.org/demos/editingToolbar/ "WebKit RTE"). I am not sure if the Cappuccino team provide a RichText Editor built-in yet.
+
+Attempts were made at integrating a third-party JavaScript rich-text libraries such as TinyMCE and FCKeditor, although this became really messy and I desired an only-Objective-J solution. Thanks for reading and good luck! Just hit me up for a pull request or fork it yourself if you're interested in building this out.
